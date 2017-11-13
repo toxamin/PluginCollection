@@ -1228,5 +1228,12 @@
         "jarName": "ChatFeelings.jar",
         "configName": "ChatFeelings",
         "freePlugin": true
+    },
+    {
+        "name": "Power Ranks",
+        "desc": "Create awesome ranks on your seerver!",
+        "jarName": "PowerRanks.jar",
+        "configName": "PowerRanks",
+        "freePlugin": true
     }
 ]
